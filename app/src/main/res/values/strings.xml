@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="m1_title">Gone Girl</string>
+    <string name="m1_director_name">David Fincher</string>
+    <string name="m1_video_link">https://www.imdb.com/video/vi3465260825?ref_=ttvi_vi_imdb_4</string>
+    <string name="m1_wiki_link">https://en.wikipedia.org/wiki/Gone_Girl_(film)</string>
+    <string name="m1_d_wiki_link">https://en.wikipedia.org/wiki/David_Fincher</string>
+    <string name="m2_title">Prisoners</string>
+    <string name="m2_director_name">Denis Villeneuve</string>
+    <string name="m2_video_link">https://www.imdb.com/video/vi644261401?playlistId=tt1392214</string>
+    <string name="m2_wiki_link">https://en.wikipedia.org/wiki/Prisoners_(2013_film)</string>
+    <string name="m2_d_wiki_link">https://en.wikipedia.org/wiki/Denis_Villeneuve</string>
+    <string name="m3_title">Insomnia</string>
+    <string name="m3_director_name">Christopher Nolan</string>
+    <string name="m3_video_link">https://www.imdb.com/video/vi498008345/?ref_=tt_vi_i_1</string>
+    <string name="m3_wiki_link">https://en.wikipedia.org/wiki/Insomnia_(2002_film)</string>
+    <string name="m3_d_wiki_link">https://en.wikipedia.org/wiki/Christopher_Nolan</string>
+    <string name="m4_title">Into The Wild</string>
+    <string name="m4_director_name">Sean Penn</string>
+    <string name="m4_video_link">https://www.imdb.com/video/vi112132377?ref_=ttvi_vi_imdb_10</string>
+    <string name="m4_wiki_link">https://en.wikipedia.org/wiki/Into_the_Wild_(film)</string>
+    <string name="m4_d_wiki_link">https://en.wikipedia.org/wiki/Sean_Penn</string>
+    <string name="m5_title">Schindler\'s List</string>
+    <string name="m5_director_name">Steven Spielberg</string>
+    <string name="m5_video_link">https://www.imdb.com/video/vi210108697?ref_=ttvi_vi_imdb_5</string>
+    <string name="m5_wiki_link">https://en.wikipedia.org/wiki/Schindler%27s_List</string>
+    <string name="m5_d_wiki_link">https://en.wikipedia.org/wiki/Steven_Spielberg</string>
+    <string name="m6_title">The Shawshank Redemption</string>
+    <string name="m6_director_name">Frank Darabont</string>
+    <string name="m6_video_link">https://www.imdb.com/video/vi3877612057?ref_=ttvi_vi_imdb_5</string>
+    <string name="m6_wiki_link">https://en.wikipedia.org/wiki/The_Shawshank_Redemption</string>
+    <string name="m6_d_wiki_link">https://en.wikipedia.org/wiki/Frank_Darabont</string>
+    <string name="m7_title">The Revenant</string>
+    <string name="m7_director_name">Alejandro González Iñárritu</string>
+    <string name="m7_video_link">https://www.imdb.com/video/vi1159442969?ref_=ttvi_vi_imdb_14</string>
+    <string name="m7_wiki_link">https://en.wikipedia.org/wiki/The_Revenant_(2015_film)</string>
+    <string name="m7_d_wiki_link">https://en.wikipedia.org/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu</string>
+    <string name="m8_title">Seven</string>
+    <string name="m8_director_name">David Fincher</string>
+    <string name="m8_video_link">https://www.imdb.com/video/vi4135977241?ref_=ttvi_vi_imdb_4</string>
+    <string name="m8_wiki_link">https://en.wikipedia.org/wiki/Seven_(1995_film)</string>
+    <string name="m8_d_wiki_link">https://en.wikipedia.org/wiki/David_Fincher</string>
+    <string name="m9_title">Moonlight</string>
+    <string name="m9_director_name">Barry Jenkins</string>
+    <string name="m9_video_link">https://www.imdb.com/video/vi753120793?ref_=ttvi_vi_imdb_11</string>
+    <string name="m9_wiki_link">https://en.wikipedia.org/wiki/Moonlight_(2016_film)</string>
+    <string name="m9_d_wiki_link">https://en.wikipedia.org/wiki/Barry_Jenkins</string>
+    <string name="m10_title">Forrest Gump</string>
+    <string name="m10_director_name">Robert Zemeckis</string>
+    <string name="m10_video_link">https://www.imdb.com/video/vi677905689?ref_=ttvi_vi_imdb_9</string>
+    <string name="m10_wiki_link">https://en.wikipedia.org/wiki/Forrest_Gump</string>
+    <string name="m10_d_wiki_link">https://en.wikipedia.org/wiki/Robert_Zemeckis</string>
+
+</resources>
